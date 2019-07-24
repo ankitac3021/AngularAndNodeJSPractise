@@ -1,0 +1,5 @@
+{
+    "employees":[{"id":"A01","name":"Ankita","dept":"CSE","desig":"Admin"},
+                 {"id":"A02","name":"Nishika","dept":"CSE","desig":"Admin"},
+                 {"id":"P05","name":"Aish","dept":"ISE","desig":"Employee"}]
+}
